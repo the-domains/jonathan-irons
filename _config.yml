@@ -1,0 +1,28 @@
+name: Jonathan Irons
+favicon: null
+layout_spectrum: 0.05087935202755034
+typography_spectrum: 0.37638454395346344
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.024442508351057768
+  lightness: 0.5642095163930207
+  saturation: 0.6947091824840754
+  rhythmicContrast: 0.6349504152312875
+purpose: []
